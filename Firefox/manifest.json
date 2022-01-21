@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Moai",
+    "version": "1.0",
+    "description": "Moai",
+    "icons": {
+      "48": "icons/48x48.png",
+      "96": "icons/96x96.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["code/content.js"]
+      }],
+      "web_accessible_resources": 
+      ["sounds/sound.ogg"] 
+}

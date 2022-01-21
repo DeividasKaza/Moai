@@ -1,0 +1,23 @@
+{
+    "name": "Moai",
+    "description": "Moai 🗿",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "/images/16x16.png",
+        "48": "/images/48x48.png",
+        "128": "/images/128x128.png"
+    },
+    "content_scripts": [{
+        "matches": ["<all_urls>"],
+        "js": ["/code/content.js"]
+    }],
+    "permissions": [
+        "storage"
+      ],
+      "web_accessible_resources": [{ 
+        "resources": ["sounds/sound.mp3"],
+        "matches": ["<all_urls>"]
+      }
+    ]
+}
