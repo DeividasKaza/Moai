@@ -20,12 +20,11 @@ Coming Soon!
 
 - Above the list of files, click **Code**.
 - Click **Download Zip** or whichever method you prefer. <br />
-Alternatively you can also download the zip file from [here](https://github.com/DeividasKaza/Moai/archive/refs/heads/main.zip).
 
 - Open Firefox, and click on the three lines located on the top right of the screen.
 - Go over to **More tools**, and on the side panel it should say **Remote Debugging**. Click it.
 - Click on **This Firefox**. 
-- You should see a button named **Load Temporary Add-on**, click it, and select the manifest file inside the **moai** file.
+- You should see a button named **Load Temporary Add-on**, click it, and select the manifest file inside the firefox **Moai** file.
 
 # Local Chrome Installation
 
@@ -38,7 +37,7 @@ Alternatively you can also download the zip file from [here](https://github.com/
 - Open Chrome, and click on the three dots located on the top right of the screen.
 - Go over to **Settings**, and on the side panel near the botton it should say **Extensions**. Click it.
 - Ensure that the "Developer mode" checkbox in the top right-hand corner is checked. 
-- You should see three buttons appear on the left-hand corner, click load unpacked, and select the **Moai** file.
+- You should see three buttons appear on the left-hand corner, click load unpacked, and select the **Moai** file from the Chrome folder.
 
 
 ## Contributing
