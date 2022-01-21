@@ -32,7 +32,6 @@ Coming Soon!
 
 - Above the list of files, click **Code**.
 - Click **Download Zip** or whichever method you prefer. <br />
-Alternatively you can also download the zip file from [here](https://github.com/DeividasKaza/Moai/archive/refs/heads/main.zip).
 
 - Open Chrome, and click on the three dots located on the top right of the screen.
 - Go over to **Settings**, and on the side panel near the botton it should say **Extensions**. Click it.
