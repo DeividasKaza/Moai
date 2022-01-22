@@ -16,7 +16,7 @@
         "storage"
       ],
       "web_accessible_resources": [{ 
-        "resources": ["sounds/sound.mp3"],
+        "resources": ["sounds/sound.mp3", "images/Moai.png"],
         "matches": ["<all_urls>"]
       }
     ]
