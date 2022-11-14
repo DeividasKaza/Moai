@@ -3,7 +3,6 @@
 
 document.addEventListener('click', function () {
     let chance = Math.floor(Math.random() * 10);
-    console.log(chance);
 
     if (chance == 0) {
         audio.play();
